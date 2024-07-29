@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+J88 - j88com.today - Uy Tín và Đa Dạng Sản Phẩm Cá Cược
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`J88 <https://j88com.today/>`_ - nhà cái uy tín hàng đầu tại Việt Nam và được nhiều người chơi yêu thích. Được thành lập với mục tiêu mang đến cho người chơi những trải nghiệm cá cược và giải trí đỉnh cao, J88 không ngừng cải tiến và nâng cao chất lượng dịch vụ. J88 cung cấp một loạt các sản phẩm đa dạng, bao gồm cá cược thể thao, casino trực tuyến, game bài, và xổ số. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện thân thiện, dễ sử dụng cùng với các chương trình khuyến mãi hấp dẫn, J88 đã thu hút và giữ chân được rất nhiều người chơi. Hệ thống bảo mật thông tin tiên tiến và dịch vụ chăm sóc khách hàng chuyên nghiệp 24/7 cũng là những điểm mạnh giúp J88 khẳng định vị thế của mình trong làng cá cược trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 97 Đường Số 26, Bình Trị Đông B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0840659995. 
 
-.. toctree::
+Email: info@j88com.today. 
 
-   usage
-   api
+Website: https://j88com.today/
+
+#j88 #nhacaij88 #dangkyj88 #nhacaij88 #linkj88
